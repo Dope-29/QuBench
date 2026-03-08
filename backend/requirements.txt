@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+qiskit
+qiskit-aer
+numpy
+scipy
+sympy
+latex2sympy2
+pydantic
+python-dotenv
+websockets
